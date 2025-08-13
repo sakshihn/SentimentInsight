@@ -1,0 +1,21 @@
+# Core data handling
+numpy
+pandas
+
+# Machine learning
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Explainable AI
+lime
+shap
+
+# Dimensionality reduction
+umap-learn
+
+# Notebooks
+jupyter
