@@ -18,12 +18,12 @@ It’s built using **Python, NLP, and modern explainable AI techniques**, making
 ## 📁 Folder Structure
 
 SentimentInsight/
-├── Sentiment Analysis on Product or Movie Reviews.ipynb # Main analysis notebook
-├── IMDB Dataset.csv # Dataset (large file)
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignored files & folders
-├── README.md # Project documentation
-└── assets/ # Images & visualizations
+├── Sentiment Analysis on Product or Movie Reviews.ipynb   # Main analysis notebook
+├── IMDB Dataset.csv   # Dataset (large file)
+├── requirements.txt   # Python dependencies
+├── .gitignore   # Ignored files & folders
+├── README.md   # Project documentation
+└── assets/   # Images & visualizations
 
 ---
 
